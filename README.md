@@ -1,8 +1,8 @@
 Results on local Validation
 
-| Attempt | #1    | #2    |
-| :-----: | :---: | :---: |
-| Seconds | 301   | 283   |
+| AUPRC | AUROC | Accuracy  | F-Measure | Challenge Score  |
+| :-----: | :---: | :---: | :---: | :---: |
+| 0.548 | 0.949   | 0.418   | 0.521   | 0.696   |
 
 
 
