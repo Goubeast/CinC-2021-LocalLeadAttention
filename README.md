@@ -1,3 +1,12 @@
+Results on local Validation
+
+AUPRC | AUROC | Accuracy | F-Measure | Challenge Score | 
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+0.548 | 0.949 | 0.418 | 0.521 | 0.696 | 
+
+
+
+
 # Python example code for the PhysioNet/Computing in Cardiology Challenge 2021
 
 ## What's in this repository?
